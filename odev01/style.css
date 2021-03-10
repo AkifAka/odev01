@@ -1,0 +1,19 @@
+html,body{
+    background-color: rgb(240,240,240);
+    color:rgb(71, 53, 25);
+    text-align: center; 
+    font-size: 1.2em;
+}
+.kart{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: blue;
+}
+.mesaj{
+    background-color: green;
+    color: black;
+}
